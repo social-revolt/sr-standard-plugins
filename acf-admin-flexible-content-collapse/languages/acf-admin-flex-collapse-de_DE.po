@@ -1,0 +1,90 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ACF Admin Flexible Content Collapse\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-03-19 09:33+0000\n"
+"PO-Revision-Date: 2017-03-19 09:33+0000\n"
+"Last-Translator: thomas <t.meyer@me.com>\n"
+"Language-Team: German\n"
+"Language: de-DE\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#: acf-admin-flexible-content-collapse.php:100
+#, php-format
+msgid ""
+"%1$s requires Advanced Custom Fields v%2$s or higher to be installed and "
+"activated."
+msgstr ""
+"Für %1$s muss Advanced Custom Fields v%2$s oder höher installiert und "
+"aktiviert sein."
+
+#: acf-admin-flexible-content-collapse.php:117
+msgid "Reorder Layout"
+msgstr "Layouts sortieren"
+
+#: acf-admin-flexible-content-collapse.php:118
+msgid "Delete Layout"
+msgstr "Layout löschen"
+
+#: acf-admin-flexible-content-collapse.php:119
+msgid "Duplicate Layout"
+msgstr "Layout duplizieren"
+
+#: acf-admin-flexible-content-collapse.php:120
+msgid "Add New Layout"
+msgstr "Layout hinzufügen"
+
+#: acf-admin-flexible-content-collapse.php:121
+msgid "Click to toggle"
+msgstr "Ein-/Aufklappen"
+
+#: acf-admin-flexible-content-collapse.php:122
+msgid "Collapse all Layouts"
+msgstr "Layouts einklappen"
+
+#: acf-admin-flexible-content-collapse.php:123
+msgid "Expand all Layouts"
+msgstr "Layouts aufklappen"
+
+#: acf-admin-flexible-content-collapse.php:194
+msgid "Plugins by dreihochzwo"
+msgstr "Plugins von dreihochzwo"
+
+#: acf-admin-flexible-content-collapse.php:214
+msgid "Thank you for using my plugins!"
+msgstr "Danke, dass Du meine Plugins nutzt!"
+
+#: acf-admin-flexible-content-collapse.php:223
+msgid "Documentation"
+msgstr "Dokumentation"
+
+#: acf-admin-flexible-content-collapse.php:232
+msgid "Please consider making a small donation!"
+msgstr "Ich freue mich über eine kleine Spende!"
+
+#. Name of the plugin
+msgid "ACF Admin Flexible Content Collapse"
+msgstr "ACF Admin Flexible Content Collapse"
+
+#. Description of the plugin
+msgid ""
+"Make Flexible Content field layouts collapsible in the field group editor."
+msgstr ""
+"Ermöglicht das Ein- und Aufklappen von Flexible Content Layouts im Felder-"
+"Gruppen Editor."
+
+#. URI of the plugin
+msgid "https://wordpress.org/plugins/acf-admin-flexible-content-collapse/"
+msgstr "https://wordpress.org/plugins/acf-admin-flexible-content-collapse/"
+
+#. Author of the plugin
+msgid "Thomas Meyer"
+msgstr "Thomas Meyer"
+
+#. Author URI of the plugin
+msgid "https://dreihochzwo.de"
+msgstr "https://dreihochzwo.de"

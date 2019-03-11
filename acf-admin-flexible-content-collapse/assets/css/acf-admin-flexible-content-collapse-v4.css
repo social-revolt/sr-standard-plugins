@@ -1,0 +1,121 @@
+@font-face {
+	font-family: 'acf_flex_fold';
+    src:    url('../font/acf_flex_fold.eot?f4lfft');
+    src:    url('../font/acf_flex_fold.eot?f4lfft#iefix') format('embedded-opentype'),
+        url('../font/acf_flex_fold.ttf?f4lfft') format('truetype'),
+        url('../font/acf_flex_fold.woff?f4lfft') format('woff'),
+        url('../font/acf_flex_fold.svg?f4lfft#acf_flex_fold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+.acf-icon {
+	border: transparent solid 1px;
+	border-radius: 100%;
+	font-size: 16px;
+	line-height: 26px;
+	text-align: center;
+	text-decoration: none;
+	vertical-align: top;
+}
+
+a.acf-icon {
+	color: #999;
+	border-color: #BBB;
+	background-color: #fff;
+	position: relative;
+	overflow: hidden;
+	transition: none;
+}
+
+.acf-icon.flex {
+	width: 20px;
+	height: 20px;
+	line-height: 22px;
+	font-size: 14px;
+	display: inline-block;
+	
+	padding: 0;
+	margin: 0 2px 2px 0;
+}
+
+.acf-icon:before {
+	font-family: "acf_flex_fold"!important;
+	font-style: normal;
+	font-weight: normal;
+	speak: none;
+	display: inline-block;
+	text-decoration: inherit;
+	width: 1em;
+	text-align: center;
+	/* For safety - reset parent styles, that can break glyph codes*/
+	font-variant: normal;
+	text-transform: none;
+	/* fix buttons height, for twitter bootstrap */
+	line-height: 1em;
+	/* Font smoothing. That was taken from TWBS */
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+	/* more consistent vertical align */
+	position: relative;
+}
+
+/* add */
+.acf-icon.-plus:before {
+	content: "\e800";
+}
+
+/* delete */
+.acf-icon.-minus:before {
+	content: '\e801';
+}
+
+/* collapse arrow-down*/
+.acf-icon.-collapse:before {
+	content: "\e810";
+	top: -1px;
+}
+
+/* collapse arrow-up */
+.-collapsed .acf-icon.-collapse:before {
+	content: "\e80f";
+	top: 1px;
+}
+
+/* sort */
+.acf-icon.-arrow-combo:before {
+	content: '\e80e';
+}
+
+/* duplicate */
+.acf-icon.-duplicate:before {
+	content: "\e900";
+}
+
+.acf-icon.flex {
+	width: 20px;
+	height: 20px;
+	line-height: 22px;
+	font-size: 14px;
+}
+
+table.acf_input .-collapsed table.acf-fc-meta {
+	margin-bottom: 0;
+}
+
+.field_option_flexible_content.ui-sortable-helper {
+	background: #fff;
+}
+
+.acf-fc-meta tr {
+	transition: all .15s ease-in-out;
+	-webkit-transition: all .15s ease-in-out;
+}
+
+.transparent-meta {
+	opacity: 0;
+}
+
+table.acf_input tbody tr td.min-padding {
+	padding: 5px 15px;
+}

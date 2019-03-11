@@ -1,0 +1,87 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-03-19 09:33+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#: acf-admin-flexible-content-collapse.php:100
+#, php-format
+msgid ""
+"%1$s requires Advanced Custom Fields v%2$s or higher to be installed and "
+"activated."
+msgstr ""
+
+#: acf-admin-flexible-content-collapse.php:117
+msgid "Reorder Layout"
+msgstr ""
+
+#: acf-admin-flexible-content-collapse.php:118
+msgid "Delete Layout"
+msgstr ""
+
+#: acf-admin-flexible-content-collapse.php:119
+msgid "Duplicate Layout"
+msgstr ""
+
+#: acf-admin-flexible-content-collapse.php:120
+msgid "Add New Layout"
+msgstr ""
+
+#: acf-admin-flexible-content-collapse.php:121
+msgid "Click to toggle"
+msgstr ""
+
+#: acf-admin-flexible-content-collapse.php:122
+msgid "Collapse all Layouts"
+msgstr ""
+
+#: acf-admin-flexible-content-collapse.php:123
+msgid "Expand all Layouts"
+msgstr ""
+
+#: acf-admin-flexible-content-collapse.php:194
+msgid "Plugins by dreihochzwo"
+msgstr ""
+
+#: acf-admin-flexible-content-collapse.php:214
+msgid "Thank you for using my plugins!"
+msgstr ""
+
+#: acf-admin-flexible-content-collapse.php:223
+msgid "Documentation"
+msgstr ""
+
+#: acf-admin-flexible-content-collapse.php:232
+msgid "Please consider making a small donation!"
+msgstr ""
+
+#. Name of the plugin
+msgid "ACF Admin Flexible Content Collapse"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Make Flexible Content field layouts collapsible in the field group editor."
+msgstr ""
+
+#. URI of the plugin
+msgid "https://wordpress.org/plugins/acf-admin-flexible-content-collapse/"
+msgstr ""
+
+#. Author of the plugin
+msgid "Thomas Meyer"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://dreihochzwo.de"
+msgstr ""
